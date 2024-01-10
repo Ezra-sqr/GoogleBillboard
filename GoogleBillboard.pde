@@ -7,7 +7,6 @@ public void setup()
      double num =Double.parseDouble(dotcom);
      if (isPrime(num)==true && found==false){
      System.out.println(num);
-     System.out.println(i);
      found=true;
    }
     }
